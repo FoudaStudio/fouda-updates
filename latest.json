@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "channel": "stable",
+  "latest": "1.0.1",
+  "buildId": "4ef4ca013095944229641777f3c7177ff26c4377ddfcef4b620136800e42ad87",
+  "manifest": "manifests/1.0.1.json",
+  "fileCount": 7481,
+  "totalBytes": 833559972,
+  "publishedAt": 1795577289351,
+  "notes": ""
+}
