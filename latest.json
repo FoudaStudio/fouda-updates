@@ -2,10 +2,10 @@
   "v": 1,
   "channel": "stable",
   "latest": "1.0.1",
-  "buildId": "4ef4ca013095944229641777f3c7177ff26c4377ddfcef4b620136800e42ad87",
+  "buildId": "16c755d485cf3eece40ece8f59497da7d9b3b8a56c6dbaaad3518548ee8d5efc",
   "manifest": "manifests/1.0.1.json",
   "fileCount": 7481,
   "totalBytes": 833559972,
-  "publishedAt": 1795577289351,
+  "publishedAt": 1795577759081,
   "notes": ""
 }
