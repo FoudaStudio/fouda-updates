@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.2.3",
+    "channel": "stable",
+    "buildId": "4427c71094a3fdc57d524eca47c8e9e56d4945d44a8e2ef556d48df934b3c82a",
+    "publishedAt": 1795755127209,
+    "fileCount": 7675,
+    "totalBytes": 844913726,
+    "notes": "إزالة خلفية الفيديو بالذكاء الاصطناعي (موديل عام + موديل للأشخاص بزر تحميل) + إزالة الكروما بقطّارة اختيار اللون"
+  },
+  {
     "version": "1.0.2",
     "channel": "stable",
     "buildId": "3bdbf537f1e49560b796249135aec85dc3b28fafa5d0f0079eb0d54c851df196",

@@ -1,11 +1,11 @@
 {
   "v": 1,
   "channel": "stable",
-  "latest": "1.0.2",
-  "buildId": "3bdbf537f1e49560b796249135aec85dc3b28fafa5d0f0079eb0d54c851df196",
-  "manifest": "manifests/1.0.2.json",
-  "fileCount": 7481,
-  "totalBytes": 833560614,
-  "publishedAt": 1795578290846,
-  "notes": ""
+  "latest": "1.2.3",
+  "buildId": "4427c71094a3fdc57d524eca47c8e9e56d4945d44a8e2ef556d48df934b3c82a",
+  "manifest": "manifests/1.2.3.json",
+  "fileCount": 7675,
+  "totalBytes": 844913726,
+  "publishedAt": 1795755127209,
+  "notes": "إزالة خلفية الفيديو بالذكاء الاصطناعي (موديل عام + موديل للأشخاص بزر تحميل) + إزالة الكروما بقطّارة اختيار اللون"
 }
