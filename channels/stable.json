@@ -1,11 +1,11 @@
 {
   "v": 1,
   "channel": "stable",
-  "latest": "1.2.6",
-  "buildId": "930f8ad46bd8a691e092b70682123ecb02f9bf85a2f9402f93762d57bb1f47dc",
-  "manifest": "manifests/1.2.6.json",
+  "latest": "1.2.7",
+  "buildId": "a351094de43bbabb42931716c923415a07ef88ee46ba9ffb9114ee0856670199",
+  "manifest": "manifests/1.2.7.json",
   "fileCount": 7675,
-  "totalBytes": 844929360,
-  "publishedAt": 1795786188307,
-  "notes": ""
+  "totalBytes": 844933039,
+  "publishedAt": 1795789058352,
+  "notes": "العلامة المائية في التصدير بس (مش أثناء الشغل) · فوده للعزل: الحذف/الإضافة بيبانوا فورًا في النافذة · قطّارة الكروما بقت سن قلم على نقطة البصمة"
 }
