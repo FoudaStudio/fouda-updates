@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.2.6",
+    "channel": "stable",
+    "buildId": "930f8ad46bd8a691e092b70682123ecb02f9bf85a2f9402f93762d57bb1f47dc",
+    "publishedAt": 1795786188307,
+    "fileCount": 7675,
+    "totalBytes": 844929360,
+    "notes": ""
+  },
+  {
     "version": "1.2.5",
     "channel": "stable",
     "buildId": "119a4ad79ad2e469d64ef8b393180bafd1f32f18340a28e8407ec456317d7e87",

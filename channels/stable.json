@@ -1,11 +1,11 @@
 {
   "v": 1,
   "channel": "stable",
-  "latest": "1.2.5",
-  "buildId": "119a4ad79ad2e469d64ef8b393180bafd1f32f18340a28e8407ec456317d7e87",
-  "manifest": "manifests/1.2.5.json",
+  "latest": "1.2.6",
+  "buildId": "930f8ad46bd8a691e092b70682123ecb02f9bf85a2f9402f93762d57bb1f47dc",
+  "manifest": "manifests/1.2.6.json",
   "fileCount": 7675,
   "totalBytes": 844929360,
-  "publishedAt": 1795785489386,
-  "notes": "فوده للعزل: الفرشاة الحمرا والبيضا بتشتغل مع الموديل الذكي · العلامة المائية ظاهرة فوق الفيديو في المعاينة والتصدير · قطّارة الكروما بشكل سن قلم"
+  "publishedAt": 1795786188307,
+  "notes": ""
 }
